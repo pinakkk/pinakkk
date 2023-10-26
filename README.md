@@ -3,15 +3,17 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
-- 📝 I regularly write articles on [https://www.zoomers.in/](https://www.zoomers.in/)
+- 📝 I regularly write articles on [zoomers](zoomers)
 
 - 📫 How to reach me **pinakkundu1080@gmail.com**
 
+- ⚡ Fun fact **I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/pinak.posts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pinak.posts/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@crazypinak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@crazypinak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pinakkundu1080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pinakkundu1080" height="30" width="40" /></a>
+<a href="https://instagram.com/pinak.posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinak.posts" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/crazypinak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crazypinak" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pinakkundu1080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pinakkundu1080" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
