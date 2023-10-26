@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
-- 📝 I regularly write articles on [zoomers](zoomers)
+- 📝 I regularly write articles on [zoomers](zoomers.in)
 
 - 📫 How to reach me **pinakkundu1080@gmail.com**
 
