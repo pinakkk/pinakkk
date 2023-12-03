@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pinak Kundu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring App Developer & Cyber Security</h3>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📝 I regularly write articles on [zoomers](https://zoomers.in)
 
