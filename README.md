@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinak Kundu</h1>
-<h3 align="center">Aspiring App Developer & Cyber Security</h3>
+<h3 align="center">
+Aspiring app developer and cybersecurity enthusiast with in-depth knowledge of OSI Model/TCP/UDP & Computer Networks along with Docker, Kubernetes, and beginner in machine learning frameworks Scikit-learn and TensorFlow </h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
