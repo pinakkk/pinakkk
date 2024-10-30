@@ -1,21 +1,39 @@
-<h1 align="center">Hi 👋, I'm Pinak Kundu</h1>
-<h3 align="center">
-Aspiring app developer and Tech enthusiast </h3>
+# Hi there, I'm Pinak! 👋
 
-- 🌱 I’m currently learning **Kotlin**
+**I'm a self-taught UI/UX designer, web developer, and video editor with over two years of industry experience.** Passionate about crafting sleek, functional designs, I'm always excited about the latest in tech, especially if it involves new-gen web design, Android development, Python, or machine learning. 
 
-- 📝 I regularly write articles on [zoomers](https://zoomers.in)
+---
 
-- 📫 How to reach me **pinakkundu1080@gmail.com**
+### 👨‍💻 What I Do
+- **Freelance Work:** UI/UX design, web development, and video editing for a wide range of clients.
+- **DSA & C++:** Currently diving into Data Structures and Algorithms using C++, and sharing my journey in a dedicated [GitHub repository](https://github.com/pinakkk/Dsa-Cpp).
+- **Portfolio Development:** Working on a futuristic portfolio website with a dark theme, space elements, and some AI-integrated blogging features!
+- **Content Creation:** Planning a Spotify podcast tailored for Indian Gen Z, covering social issues, educational topics, and trends.
 
-- ⚡ Fun fact **I am funny**
+### 🌟 Skills
+- **Languages:** C, C++, Python, Java, JavaScript, HTML & CSS
+- **Frameworks:** React, Tailwind CSS, BootStrap, NodeJs
+- **Tools:** Figma, After Effects, Premiere Pro
+- **Design & Editing:** UI/UX design, cinematic video editing, motion graphics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/pinak.posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinak.posts" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/crazypinak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crazypinak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pinakkundu1080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pinakkundu1080" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🚀 Current Projects
+- **Portfolio Website:** A space-themed dark portfolio with custom icons, outer glow effects, and Montserrat & Poppins fonts. [Check out the repo](https://github.com/pinakkk/portfoliosite).
+- **DSA Repository:** Solving DSA problems in C++ and sharing solutions and study materials for others to learn. 
+More to come...
+---
+
+### 🎨 Interests & Hobbies
+- **Designing:** UI concepts, futuristic themes, and clean interfaces
+- **Content Creation:** Editing cinematic videos, thumbnails, and banners
+- **Learning:** Android development, machine learning, and new-gen tech
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Pinak Kundu](https://linkedin.com/in/pinakkk)
+
+---
+
+Thanks for visiting my profile! Let's create something amazing together. 🌌✨
