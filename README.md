@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Current Projects
-- **Portfolio Website:** A space-themed dark portfolio with custom icons, outer glow effects, and Montserrat & Poppins fonts. [Check out the repo](https://github.com/pinakkk/portfoliosite).
+- **Tabloom:** Tabloom is an open-source Chrome extension designed to enhance the personal browsing experience.
 - **DSA Repository:** Solving DSA problems in C++ and sharing solutions and study materials for others to learn. 
 More to come...
 ---
