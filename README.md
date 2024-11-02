@@ -7,8 +7,7 @@
 ### 👨‍💻 What I Do
 - **Freelance Work:** UI/UX design, web development, and video editing for a wide range of clients.
 - **DSA & C++:** Currently diving into Data Structures and Algorithms using C++, and sharing my journey in a dedicated [GitHub repository](https://github.com/pinakkk/Dsa-Cpp).
-- **Portfolio Development:** Working on a futuristic portfolio website with a dark theme, space elements, and some AI-integrated blogging features!
-- **Content Creation:** Planning a Spotify podcast tailored for Indian Gen Z, covering social issues, educational topics, and trends.
+- **Content Creation:** tailored for Indian Gen Z, covering social issues, educational topics, and trends.
 
 ### 🌟 Skills
 - **Languages:** C, C++, Python, Java, JavaScript, HTML & CSS
