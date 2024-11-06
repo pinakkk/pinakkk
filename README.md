@@ -12,7 +12,7 @@
 ### 🌟 Skills
 - **Languages:** C, C++, Python, Java, JavaScript, HTML & CSS
 - **Frameworks:** React, Tailwind CSS, BootStrap, NodeJs
-- **Tools:** Figma, After Effects, Premiere Pro
+- **Tools:** Figma, Canva, Photoshop, After Effects, Premiere Pro
 - **Design & Editing:** UI/UX design, cinematic video editing, motion graphics
 
 ---
