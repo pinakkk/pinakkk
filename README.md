@@ -27,16 +27,6 @@ I'm a self-taught **UI/UX designer** and **web developer** exploring **Cloud** &
 ### Tools I love
 - **Design:** Figma · Canva · Photoshop · After Effects · Premiere Pro  
 - **Web:** ReactJS · NextJS · Express · Node.js · Tailwind · Bootstrap  
-- **Other:** Git · Vercel · Docker (learning)
-
----
-
-## ✨ Showcase — Animations & Microinteractions
-> Small interactions make product experiences delightful. A few animation ideas to include in your projects (and README visuals):
-- Hover micro-animations on buttons (scale + shadow)
-- Smooth page transitions (fade + slide)
-- Animated SVG icons for status indicators
-- Lottie or GIF for hero section to show motion without heavy JS
 
 ---
 
@@ -50,29 +40,12 @@ I'm a self-taught **UI/UX designer** and **web developer** exploring **Cloud** &
 
 ---
 
-## 🚀 Projects & Experiments
-**(Add short links to 3–4 projects here — one-liners + a live/demo link)**
-
-- **Project Name** — Short description. [Live](#) · [Code](#)  
-- **Design Case Study** — Short description. [Prototype](#) · [Dribbble/Behance](#)
-
----
-
-## 🔭 What I'm learning
-- Advanced Cloud Patterns (serverless, infra as code)  
-- Fine-tuning/Prompt engineering for GenAI models  
-- Motion design with After Effects + Lottie
-
----
-
 ## 📫 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/pinakkk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/pinakkk" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:bringcashhere@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
-> Replace `your-email@example.com` above with your actual contact email if you want it shown.
 
 ---
 
