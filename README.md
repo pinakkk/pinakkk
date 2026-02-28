@@ -97,17 +97,9 @@ Real-time hazard reporting system with role-based dashboards.
 
 # 📊 GitHub Power Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinakkk&show_icons=true&theme=radical&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinakkk&layout=compact&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinakkk&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pinakkk&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
