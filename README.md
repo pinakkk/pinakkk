@@ -12,8 +12,7 @@
 
 💡 Frontend-focused **Full Stack Developer** crafting AI-powered SaaS platforms  
 🎨 Strong UI/UX foundation with animation-driven product design  
-⚡ Passionate about Generative AI, Cloud, and scalable architectures  
-🔥 85+ Day GitHub Contribution Streak  
+⚡ Passionate about Generative AI, Cloud, and scalable architectures   
 🏆 Nationwide Top 10 Finalist – iMobilothon 5.0 (Volkswagen Group)
 
 I build interfaces that feel premium, intuitive, and alive.
