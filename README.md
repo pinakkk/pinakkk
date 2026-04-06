@@ -13,7 +13,9 @@
 💡 Frontend-focused **Full Stack Developer** crafting AI-powered SaaS platforms  
 🎨 Strong UI/UX foundation with animation-driven product design  
 ⚡ Passionate about Generative AI, Cloud, and scalable architectures   
-🏆 Nationwide Top 10 Finalist – iMobilothon 5.0 (Volkswagen Group)
+🏆 Nationwide Top 10 Finalist – iMobilothon 5.0 
+
+More about my work : https://pinakkundu.in
 
 I build interfaces that feel premium, intuitive, and alive.
 
@@ -40,50 +42,6 @@ I build interfaces that feel premium, intuitive, and alive.
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-
----
-
-# 🌟 Featured Projects
-
-## 🤖 Amy AI – Privacy-First AI Companion (SaaS)
-
-Immersive AI companion platform with 3D depth effects & GSAP-powered micro-interactions.
-
-**Highlights**
-- Narrative-driven frontend architecture
-- Streaming-ready chat UI
-- Performance-optimized component system
-- FastAPI backend integration ready
-- Dockerized deployment
-
-**Tech:** React · GSAP · FastAPI · REST · Docker
-
----
-
-## 🧠 Obvix Lake – AI Support Orchestration Platform
-
-AI-powered customer support SaaS dashboard with intelligent conversation management.
-
-**Impact**
-- Reduced future feature effort by ~40%
-- Improved support efficiency by ~25%
-- Reduced UX errors by ~30%
-- Visualized complex RAG response states clearly
-
-**Tech:** React · TypeScript · Flask · MongoDB · JWT
-
----
-
-## 🌊 Ocean Disaster Management Platform
-
-Real-time hazard reporting system with role-based dashboards.
-
-- Secure auth & routing
-- Centralized API handling
-- Real-time updates
-- Scalable modular architecture
-
-**Tech:** React 18 · TypeScript · Node · MongoDB
 
 ---
 
