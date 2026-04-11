@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=2500&pause=800&color=0EA5A4&center=true&vCenter=true&width=900&lines=Hey,+I'm+Pinak+Kundu+%F0%9F%91%8B;Frontend+Engineer+%7C+UI%2FUX+Designer;Building+AI-Powered+SaaS+Products;Exploring+Cloud+%26+Generative+AI" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
 
 ---
 
