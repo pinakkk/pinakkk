@@ -53,9 +53,7 @@ I build interfaces that feel premium, intuitive, and alive.
 # 📊 GitHub Power Stats
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinakkk&theme=radical" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pinakkk)](https://git.io/streak-stats)
 
 ---
 
