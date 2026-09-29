@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=2500&pause=800&color=0EA5A4&center=true&vCenter=true&width=900&lines=Hey,+I'm+Pinak+Kundu+%F0%9F%91%8B;Frontend+Engineer+%7C+UI%2FUX+Designer;Building+AI-Powered+SaaS+Products;Exploring+Cloud+%26+Generative+AI" />
-</p>
-
-
----
-
 # 🚀 About Me
+I am 5'11 and feminist final boss. i have read The Feminine Mystique and Room of One's Own.
 
-💡 Frontend-focused **Full Stack Developer** crafting AI-powered SaaS platforms  
+💡 **Full Stack Developer** crafting AI-powered SaaS platforms  
 🎨 Strong UI/UX foundation with animation-driven product design  
 ⚡ Passionate about Generative AI, Cloud, and scalable architectures   
 🏆 Nationwide Top 10 Finalist – iMobilothon 5.0 
@@ -75,7 +69,3 @@ I build interfaces that feel premium, intuitive, and alive.
 </p>
 
 ---
-
-<p align="center">
-  <i>Design. Code. Animate. Ship.</i>
-</p>
