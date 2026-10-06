@@ -1,9 +1,6 @@
 # 🚀 About Me
-I am 5'11 and feminist final boss. i have read The Feminine Mystique and Room of One's Own.
+I am 5'11 and feminist final boss. i only listen to my wife 
 
-💡 **Full Stack Developer** crafting AI-powered SaaS platforms  
-🎨 Strong UI/UX foundation with animation-driven product design  
-⚡ Passionate about Generative AI, Cloud, and scalable architectures   
 🏆 Nationwide Top 10 Finalist – iMobilothon 5.0 
 
 More about my work : https://pinakkundu.in
