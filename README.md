@@ -33,14 +33,6 @@ I build interfaces that feel premium, intuitive, and alive.
 
 ---
 
-# 🏅 Achievements
-
-🥇 Top 10 Finalist – iMobilothon 5.0 (Volkswagen Group)  
-💻 100+ DSA Problems Solved (LeetCode)  
-🔥 100+ Days Continuous GitHub Streak  
-
----
-
 # 📊 GitHub Power Stats
 
 
