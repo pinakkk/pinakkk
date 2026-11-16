@@ -1,11 +1,11 @@
 # 🚀 About Me
-I am 5'11 and feminist final boss. i only listen to my wife 
+Cool, humorous guy you'll either love or hate. 
 
 🏆 Nationwide Top 10 Finalist – iMobilothon 5.0 
 
 More about my work : https://pinakkundu.in
 
-I build interfaces that feel premium, intuitive, and alive.
+I build interfaces and systems that feel premium, intuitive, and alive.
 
 ---
 
