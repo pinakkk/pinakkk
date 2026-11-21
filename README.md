@@ -9,30 +9,6 @@ I build interfaces and systems that feel premium, intuitive, and alive.
 
 ---
 
-# 🧠 Tech Stack
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
-
-### 🛠 Backend & DevOps
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-
----
-
 # 📊 GitHub Power Stats
 
 
